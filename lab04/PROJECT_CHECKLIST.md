@@ -1,0 +1,17 @@
+# Submission Checklist
+- [x] Jupyter Notebook
+- [x] Data cleaning/preprocessing
+- [x] Feature engineering
+- [x] Model comparison
+- [x] Hyperparameter tuning
+- [x] Evaluation metrics
+- [x] Overfitting check
+- [x] Saved model/pipeline
+- [x] Streamlit app
+- [x] requirements.txt
+- [x] README
+- [x] Important plots
+- [ ] Push to public GitHub repository
+- [ ] Deploy to Streamlit Community Cloud
+- [ ] Add live Streamlit URL to README
+- [ ] Add actual deployed-app screenshot to README
